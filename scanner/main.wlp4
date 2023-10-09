@@ -1,0 +1,8 @@
+int function(int a) {
+    a = a + 10;
+    return a;
+}
+
+int wain(int a, int b) {
+    return a + b; // unhelpful comment about summing a and b
+}
