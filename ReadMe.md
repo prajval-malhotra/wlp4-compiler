@@ -1,6 +1,6 @@
 # WLP4 Compiler
 
-This is a compiler for the WLP4 language. It includes an assembler for the MIPS assembly language, a scanner, a parser, semantic analyzer, and code generator. 
+This is a compiler for the WLP4 language done as a part of the course CS 241 at the University of Waterloo. It includes an assembler for the MIPS assembly language, a scanner, a parser, semantic analyzer, and code generator. More details about WLP4 can be found [here](https://student.cs.uwaterloo.ca/~cs241/wlp4/).
 
 ## Scanner
 
